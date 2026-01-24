@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/banner.png" width="100%" alt="FlowIQ Banner"/>
+</p>
+
 # 🚦 FlowIQ  
 ### Live Congestion & Diversion Management for Traffic Authorities
 
